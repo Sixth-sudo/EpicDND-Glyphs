@@ -11,31 +11,30 @@ can only show images served from a public https URL.
 | `damage-draconic/` | the same 13 in gem/chromatic dragon hues |
 | `hidden-elements/` | homebrew secrets (hellfire, chromatic, chaos, physical, as-weapon) |
 | `defense-markers/` | resistance / immunity / vulnerability shields |
+| `png/…` | 72px PNG renders of everything above — Roll20's chat image proxy refuses SVG, so chat cards use these |
 
 Open `_contact-sheet.html` in a browser to preview the full set.
 
 ## How the sheet uses this repo
 
-The sheet is stamped with this base URL (served by jsDelivr with the correct
-`image/svg+xml` MIME type):
+The sheet is stamped with this base URL (uncached, correct MIME types for
+both the SVGs and the PNGs):
 
 ```
-https://cdn.jsdelivr.net/gh/Sixth-sudo/EpicDND-Glyphs@main
+https://raw.githubusercontent.com/Sixth-sudo/EpicDND-Glyphs/main
 ```
+
+In-sheet CSS icons load `<base>/<set>/<key>.svg`; chat cards load
+`<base>/png/<set>/<key>.png`.
 
 To re-point or refresh the sheet after changing icons here, run in the main
 EpicDND repo:
 
 ```
-python build-glyphs.py https://cdn.jsdelivr.net/gh/Sixth-sudo/EpicDND-Glyphs@main
+python build-glyphs.py https://raw.githubusercontent.com/Sixth-sudo/EpicDND-Glyphs/main
 ```
 
 then re-upload `sheet.css` and re-paste `Epic-mod.js` into Roll20.
-
-Note: jsDelivr caches `@main` for up to ~12 hours after a push. If you need an
-edit to show up immediately, either purge via jsDelivr or use the uncached
-GitHub raw base instead:
-`https://raw.githubusercontent.com/Sixth-sudo/EpicDND-Glyphs/main`
 
 The source of truth for these files is the `roll20-glyphs/` folder in the main
 EpicDND repo — edit there and re-copy, don't let the two drift.
