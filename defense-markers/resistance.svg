@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="#6cc9a0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <title>Resistance</title>
+  <path d="M12 2.6 20.4 5.7 20.4 11C20.4 16.3 16.7 19.9 12 21.4 7.3 19.9 3.6 16.3 3.6 11L3.6 5.7Z"></path>
+  <path d="M9 6.5V15.5"></path>
+  <path d="M9 6.5H12.6C14.6 6.5 14.6 11.2 12.6 11.2H9"></path>
+  <path d="M12.1 11.2 14.8 15.5"></path>
+</svg>

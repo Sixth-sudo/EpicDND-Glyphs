@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <title>Chaos</title>
+  <g stroke="#b06cff">
+  <path d="M12 3 L19.8 7.5 L19.8 16.5 L12 21 L4.2 16.5 L4.2 7.5 Z"></path>
+  <path d="M12 8 L15.6 14.4 L8.4 14.4 Z"></path>
+  <path d="M12 8 V3"></path>
+  <path d="M15.6 14.4 L19.8 16.5"></path>
+  <path d="M8.4 14.4 L4.2 16.5"></path>
+  <path d="M12 10.9 v2.7 M10.8 11.55 l2.4 1.4 M13.2 11.55 l-2.4 1.4"></path>
+  </g>
+</svg>

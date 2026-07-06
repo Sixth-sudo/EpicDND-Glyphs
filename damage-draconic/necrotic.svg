@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="#e0a93b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <title>Necrotic (Draconic)</title>
+  <path d="M5 11.2a7 7 0 0 1 14 0c0 2.4-1.2 4.1-2.6 5-.4.3-.6.7-.6 1.2V19a1.1 1.1 0 0 1-1.1 1.1H9.3A1.1 1.1 0 0 1 8.2 19v-1.6c0-.5-.2-.9-.6-1.2C6.2 15.3 5 13.6 5 11.2z"></path>
+  <circle cx="9.4" cy="11" r="1.7" fill="#e0a93b" stroke="none"></circle>
+  <circle cx="14.6" cy="11" r="1.7" fill="#e0a93b" stroke="none"></circle>
+  <path d="M12 13.3l-1 2.1h2z" fill="#e0a93b" stroke="none"></path>
+  <path d="M10 20.1v-2.1M12 20.1v-2.1M14 20.1v-2.1"></path>
+</svg>

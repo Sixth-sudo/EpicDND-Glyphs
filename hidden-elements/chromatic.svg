@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <title>Chromatic</title>
+  <g stroke="#b08a4a" stroke-width="0.8" stroke-linejoin="round">
+  <path d="M16.03 8.80 Q14.23 8.93 13.80 7.18 L13.09 4.37 Q12.66 2.62 14.11 3.68 L19.26 7.42 Q20.72 8.48 18.92 8.60 Z" fill="#e23b2e"></path>
+  <path d="M16.29 14.84 Q15.61 13.17 17.14 12.22 L19.60 10.68 Q21.12 9.73 20.56 11.44 L18.60 17.49 Q18.04 19.20 17.37 17.53 Z" fill="#2f72e0"></path>
+  <path d="M10.62 16.96 Q12.00 15.80 13.38 16.96 L15.60 18.82 Q16.98 19.97 15.18 19.97 L8.82 19.97 Q7.02 19.97 8.40 18.82 Z" fill="#36ad5a"></path>
+  <path d="M6.86 12.22 Q8.39 13.17 7.71 14.84 L6.63 17.53 Q5.96 19.20 5.40 17.49 L3.44 11.44 Q2.88 9.73 4.40 10.68 Z" fill="#f2efe8"></path>
+  <path d="M10.20 7.18 Q9.77 8.93 7.97 8.80 L5.08 8.60 Q3.28 8.48 4.74 7.42 L9.89 3.68 Q11.34 2.62 10.91 4.37 Z" fill="#15110e"></path>
+  </g>
+</svg>

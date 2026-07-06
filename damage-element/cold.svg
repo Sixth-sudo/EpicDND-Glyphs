@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="#7fc7ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <title>Cold (Element)</title>
+  <path d="M12 2.5v19"></path>
+  <path d="M3.7 7.25 20.3 16.75"></path>
+  <path d="M20.3 7.25 3.7 16.75"></path>
+  <path d="M12 5.6 9.9 4.2M12 5.6l2.1-1.4M12 18.4l-2.1 1.4M12 18.4l2.1 1.4"></path>
+  <path d="M6.7 8.85 6.2 6.4M6.7 8.85 4.2 9.05M17.3 15.15l.5 2.45M17.3 15.15l2.5-.2"></path>
+  <path d="M17.3 8.85l.5-2.45M17.3 8.85l2.5.2M6.7 15.15l-.5 2.45M6.7 15.15l-2.5-.2"></path>
+</svg>
