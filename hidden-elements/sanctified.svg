@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <title>Sanctified Cold</title>
+  <g stroke="#ffd88a" stroke-linecap="round" fill="none">
+  <path d="M12 2.2v2.5M12 19.3v2.5M2.2 12h2.5M19.3 12h2.5"></path>
+  <path d="M5.3 5.3 6.9 6.9M17.1 17.1 18.7 18.7M18.7 5.3 17.1 6.9M6.9 17.1 5.3 18.7"></path>
+  </g>
+  <g stroke="#d3ecff" stroke-linecap="round" fill="none">
+  <path d="M12 6.5V17.5"></path>
+  <path d="M7.2 9.25 16.8 14.75"></path>
+  <path d="M16.8 9.25 7.2 14.75"></path>
+  <path d="M12 8.7 10.7 7.8M12 8.7 13.3 7.8M12 15.3 10.7 16.2M12 15.3 13.3 16.2"></path>
+  <path d="M9.55 10.15 8.7 9.35M14.45 10.15 15.3 9.35M9.55 13.85 8.7 14.65M14.45 13.85 15.3 14.65"></path>
+  </g>
+  <circle cx="12" cy="12" r="1.5" fill="#ffe6ad" stroke="none"></circle>
+</svg>
