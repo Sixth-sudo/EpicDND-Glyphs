@@ -7,9 +7,9 @@ can only show images served from a public https URL.
 
 | Folder | Contents |
 |---|---|
-| `damage-element/` | the 13 damage types, element-coloured |
-| `damage-draconic/` | the same 13 in gem/chromatic dragon hues |
-| `hidden-elements/` | homebrew secrets (hellfire, chromatic, chaos, physical, as-weapon) |
+| `damage-element/` | the 13 damage types plus healing and temp HP, element-coloured |
+| `damage-draconic/` | the same 15 in each type's dragon colour (metallic dragons for the physical and healing types) |
+| `hidden-elements/` | homebrew secrets (chaos, chromatic, hellfire, physical, sanctified cold, seismic, as-weapon) |
 | `defense-markers/` | resistance / immunity / vulnerability shields |
 | `png/…` | 72px PNG renders of everything above — Roll20's chat image proxy refuses SVG, so chat cards use these |
 
@@ -37,4 +37,8 @@ python build-glyphs.py https://raw.githubusercontent.com/Sixth-sudo/EpicDND-Glyp
 then re-upload `sheet.css` and re-paste `Epic-mod.js` into Roll20.
 
 The source of truth for these files is the `roll20-glyphs/` folder in the main
-EpicDND repo — edit there and re-copy, don't let the two drift.
+EpicDND repo — edit there and re-copy, don't let the two drift. The SVGs are
+drawn by `build-damage-glyphs.py` and the PNGs rendered by
+`render-glyph-pngs.js`, both in that repo. The filenames are the contract the
+sheet relies on, so a redraw is just a re-copy here: the sheet needs no
+re-upload.

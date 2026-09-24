@@ -1,7 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="#2a52b5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" stroke-linecap="round" stroke-linejoin="round">
   <title>Thunder (Draconic)</title>
-  <circle cx="6.5" cy="12" r="1.5" fill="#2a52b5" stroke="none"></circle>
-  <path d="M10.8 8.4a5 5 0 0 1 0 7.2"></path>
-  <path d="M13.9 5.9a8.6 8.6 0 0 1 0 12.2"></path>
-  <path d="M16.9 3.8a12 12 0 0 1 0 16.4"></path>
+  <circle cx="12" cy="12" r="2.5" fill="#17264c" stroke="#17264c" stroke-width="1.5"/>
+  <path d="M16.53 7.77 A6.2 6.2 0 0 1 16.53 16.23" fill="none" stroke="#17264c" stroke-width="3.8"/>
+  <path d="M7.47 16.23 A6.2 6.2 0 0 1 7.47 7.77" fill="none" stroke="#17264c" stroke-width="3.8"/>
+  <path d="M19.24 5.25 A9.9 9.9 0 0 1 19.24 18.75" fill="none" stroke="#17264c" stroke-width="3.8"/>
+  <path d="M4.76 18.75 A9.9 9.9 0 0 1 4.76 5.25" fill="none" stroke="#17264c" stroke-width="3.8"/>
+  <circle cx="12" cy="12" r="2.5" fill="#2a52b5"/>
+  <path d="M16.53 7.77 A6.2 6.2 0 0 1 16.53 16.23" fill="none" stroke="#2a52b5" stroke-width="2.3"/>
+  <path d="M7.47 16.23 A6.2 6.2 0 0 1 7.47 7.77" fill="none" stroke="#2a52b5" stroke-width="2.3"/>
+  <path d="M19.24 5.25 A9.9 9.9 0 0 1 19.24 18.75" fill="none" stroke="#2a52b5" stroke-width="2.3"/>
+  <path d="M4.76 18.75 A9.9 9.9 0 0 1 4.76 5.25" fill="none" stroke="#2a52b5" stroke-width="2.3"/>
+  <path d="M10.35 11.3 a0.95 0.95 0 1 0 1.9 0 a0.95 0.95 0 1 0 -1.9 0 Z" fill="#839bd4"/>
 </svg>

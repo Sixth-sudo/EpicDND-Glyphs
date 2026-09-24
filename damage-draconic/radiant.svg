@@ -1,6 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="#cfe6ef" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" stroke-linecap="round" stroke-linejoin="round">
   <title>Radiant (Draconic)</title>
-  <circle cx="12" cy="12" r="3.9"></circle>
-  <path d="M12 2.4v2.5M12 19.1v2.5M2.4 12h2.5M19.1 12h2.5"></path>
-  <path d="M5.2 5.2 7 7M17 17l1.8 1.8M18.8 5.2 17 7M7 17l-1.8 1.8"></path>
+  <path d="M21.02 8.72 A9.6 9.6 0 1 1 15.28 2.98" fill="none" stroke="#3e4243" stroke-width="3.4"/>
+  <path d="M21.02 8.72 A9.6 9.6 0 1 1 15.28 2.98" fill="none" stroke="#cfe6ef" stroke-width="1.9"/>
+  <path d="M12 4.4 Q12.77 10.15 15.11 8.89 Q13.85 11.23 19.6 12 Q13.85 12.77 15.11 15.11 Q12.77 13.85 12 19.6 Q11.23 13.85 8.89 15.11 Q10.15 12.77 4.4 12 Q10.15 11.23 8.89 8.89 Q11.23 10.15 12 4.4 Z" fill="#3e4243" stroke="#3e4243" stroke-width="1.5"/>
+  <path d="M12 4.4 Q12.77 10.15 15.11 8.89 Q13.85 11.23 19.6 12 Q13.85 12.77 15.11 15.11 Q12.77 13.85 12 19.6 Q11.23 13.85 8.89 15.11 Q10.15 12.77 4.4 12 Q10.15 11.23 8.89 8.89 Q11.23 10.15 12 4.4 Z" fill="#cfe6ef"/>
+  <path d="M10.4 12 a1.6 1.6 0 1 0 3.2 0 a1.6 1.6 0 1 0 -3.2 0 Z" fill="#ebf4f8"/>
 </svg>

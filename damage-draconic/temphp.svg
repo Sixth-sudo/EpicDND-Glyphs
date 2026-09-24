@@ -1,5 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="#cfd4da" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" stroke-linecap="round" stroke-linejoin="round">
   <title>Temp HP (Silver)</title>
-  <path d="M12 2.7 20 5.5 20 10.8C20 15.7 16.7 19.1 12 20.6 7.3 19.1 4 15.7 4 10.8L4 5.5Z"></path>
-  <path d="M12 16.6C9 14.4 7.6 12.8 7.6 11A2.2 2.2 0 0 1 12 9.9 2.2 2.2 0 0 1 16.4 11C16.4 12.8 15 14.4 12 16.6Z"></path>
+  <path d="M12 2.1 L20.4 5.1 V11 C20.4 16.3 17 20 12 21.9 C7 20 3.6 16.3 3.6 11 V5.1 Z" fill="#3e3d3d" stroke="#3e3d3d" stroke-width="1.5"/>
+  <path d="M12 2.1 L20.4 5.1 V11 C20.4 16.3 17 20 12 21.9 C7 20 3.6 16.3 3.6 11 V5.1 Z" fill="#cfd4da"/>
+  <path d="M12 4.3 L18.3 6.6 V11 C18.3 15.1 15.9 18 12 19.7" fill="none" stroke="#3e3d3d" stroke-width="0.8"/>
+  <path d="M12 16.65 C8.61 14.27 6.8 12.35 6.8 9.98 C6.8 8.34 8.04 7.15 9.51 7.15 C10.53 7.15 11.43 7.72 12 8.62 C12.57 7.72 13.47 7.15 14.49 7.15 C15.96 7.15 17.2 8.34 17.2 9.98 C17.2 12.35 15.39 14.27 12 16.65 Z" fill="none" stroke="#2c2d30" stroke-width="1.2"/>
+  <path d="M12 16.65 C8.61 14.27 6.8 12.35 6.8 9.98 C6.8 8.34 8.04 7.15 9.51 7.15 C10.53 7.15 11.43 7.72 12 8.62 C12.57 7.72 13.47 7.15 14.49 7.15 C15.96 7.15 17.2 8.34 17.2 9.98 C17.2 12.35 15.39 14.27 12 16.65 Z" fill="#8b97a8"/>
+  <path d="M8.9 10 Q9.3 8.7 10.6 8.6" fill="none" stroke="#ced3da" stroke-width="0.8"/>
 </svg>

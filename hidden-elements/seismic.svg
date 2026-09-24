@@ -1,4 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="#c2623a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" stroke-linecap="round" stroke-linejoin="round">
   <title>Seismic</title>
-  <path d="M2.5 12H7.6L9.2 6.4L11.6 17.8L13.8 9.6L15.4 12H21.5"></path>
+  <defs><linearGradient id="g1" gradientUnits="userSpaceOnUse" x1="12" y1="2.6" x2="12" y2="21.3"><stop offset="0" stop-color="#e39068"/><stop offset="0.5" stop-color="#c2623a"/><stop offset="1" stop-color="#7c3419"/></linearGradient></defs>
+  <path d="M2.4 15.6 L10.4 12.2 L11.4 14.6 L10.5 16.6 L11.6 18.6 L12.1 20.3 L12.7 18.3 L12 16.2 L13.1 14.1 L13.6 11.4 L21.6 15 L21.6 21.3 L2.4 21.3 Z" fill="#3b1f14" stroke="#3b1f14" stroke-width="1.5"/>
+  <path d="M7.4 7.4 L9.6 6.7 L10 8.9 L8 9.7 Z" fill="#3b1f14" stroke="#3b1f14" stroke-width="1.5"/>
+  <path d="M14.6 5.6 L16.9 5.2 L17 7.4 L15 7.9 Z" fill="#3b1f14" stroke="#3b1f14" stroke-width="1.5"/>
+  <path d="M11.3 3 L12.9 2.6 L13.2 4.3 L11.6 4.8 Z" fill="#3b1f14" stroke="#3b1f14" stroke-width="1.5"/>
+  <path d="M2.4 15.6 L10.4 12.2 L11.4 14.6 L10.5 16.6 L11.6 18.6 L12.1 20.3 L12.7 18.3 L12 16.2 L13.1 14.1 L13.6 11.4 L21.6 15 L21.6 21.3 L2.4 21.3 Z" fill="url(#g1)"/>
+  <path d="M7.4 7.4 L9.6 6.7 L10 8.9 L8 9.7 Z" fill="url(#g1)"/>
+  <path d="M14.6 5.6 L16.9 5.2 L17 7.4 L15 7.9 Z" fill="url(#g1)"/>
+  <path d="M11.3 3 L12.9 2.6 L13.2 4.3 L11.6 4.8 Z" fill="url(#g1)"/>
+  <path d="M3.6 16.4 L9.6 13.9" fill="none" stroke="#e5bdac" stroke-width="1"/>
+  <path d="M14.5 13.2 L20.5 15.9" fill="none" stroke="#e5bdac" stroke-width="1"/>
+  <path d="M4.2 18.7 H8.4 M15.6 18.7 H19.8" fill="none" stroke="#3b1f14" stroke-width="0.8"/>
 </svg>

@@ -1,6 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="#cdd3dd" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" stroke-linecap="round" stroke-linejoin="round">
   <title>Piercing (Element)</title>
-  <path d="M5.5 18.5 17.8 6.2"></path>
-  <path d="M11.4 6.2h6.4v6.4"></path>
-  <path d="M5.5 18.5l-1.7.4.4-1.7"></path>
+  <path d="M17.36 6.64 L4.45 19.55" fill="none" stroke="#3d3d3e" stroke-width="3.8"/>
+  <path d="M4.31 19.69 L7.42 16.58 L3.95 15.95 L1.27 18.63 Z" fill="#3d3d3e" stroke="#3d3d3e" stroke-width="1.5"/>
+  <path d="M4.31 19.69 L7.42 16.58 L8.05 20.05 L5.37 22.73 Z" fill="#3d3d3e" stroke="#3d3d3e" stroke-width="1.5"/>
+  <path d="M17.36 6.64 L4.45 19.55" fill="none" stroke="#cdd3dd" stroke-width="2.3"/>
+  <path d="M4.31 19.69 L7.42 16.58 L3.95 15.95 L1.27 18.63 Z" fill="#cdd3dd"/>
+  <path d="M4.31 19.69 L7.42 16.58 L8.05 20.05 L5.37 22.73 Z" fill="#cdd3dd"/>
+  <path d="M20.9 3.1 L18.92 10.17 L17.51 6.49 L13.83 5.08 Z" fill="#3d3d3e" stroke="#3d3d3e" stroke-width="1.5"/>
+  <path d="M20.9 3.1 L18.92 10.17 L17.51 6.49 L13.83 5.08 Z" fill="#cdd3dd"/>
+  <path d="M19.49 3.67 L16.02 4.87" fill="none" stroke="#eaedf1" stroke-width="0.9"/>
 </svg>

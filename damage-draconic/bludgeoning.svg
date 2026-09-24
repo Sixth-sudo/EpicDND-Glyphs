@@ -1,7 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="#8a6326" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" stroke-linecap="round" stroke-linejoin="round">
   <title>Bludgeoning (Bronze)</title>
-  <path d="M5.4 4h8.2a1.2 1.2 0 0 1 1.2 1.2v2.6a1.2 1.2 0 0 1-1.2 1.2H5.4A1.2 1.2 0 0 1 4.2 7.8V5.2A1.2 1.2 0 0 1 5.4 4z"></path>
-  <path d="M9.5 9v6"></path>
-  <path d="M8 20.4h3"></path>
-  <path d="M9.5 15c2.4 0 2.4 5.4 0 5.4S7.1 15 9.5 15z"></path>
+  <path d="M4.1 19.9 L12.41 11.39" fill="none" stroke="#2c200e" stroke-width="4.4"/>
+  <path d="M4.1 19.9 L12.41 11.39" fill="none" stroke="#8a6326" stroke-width="2.9"/>
+  <path d="M12.34 2.55 L21.25 11.46 L16.86 15.85 L7.95 6.94 Z" fill="#2c200e" stroke="#2c200e" stroke-width="1.5"/>
+  <path d="M9.72 11.11 L12.69 14.08 L14.03 12.74 L11.06 9.77 Z" fill="#2c200e" stroke="#2c200e" stroke-width="1.5"/>
+  <path d="M12.34 2.55 L21.25 11.46 L16.86 15.85 L7.95 6.94 Z" fill="#8a6326"/>
+  <path d="M9.72 11.11 L12.69 14.08 L14.03 12.74 L11.06 9.77 Z" fill="#8a6326"/>
+  <path d="M12.83 4.32 L19.48 10.97" fill="none" stroke="#cebda4" stroke-width="1.1"/>
+  <path d="M10.92 9.91 L13.89 12.88" fill="none" stroke="#2c200e" stroke-width="0.8"/>
 </svg>

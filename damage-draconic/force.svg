@@ -1,5 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="#9a6dd7" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" stroke-linecap="round" stroke-linejoin="round">
   <title>Force (Draconic)</title>
-  <path d="M12 3.2c.85 4.8 3.2 7.15 8 8-4.8.85-7.15 3.2-8 8-.85-4.8-3.2-7.15-8-8 4.8-.85 7.15-3.2 8-8z"></path>
-  <path d="M19.3 4.7l.45 1.1 1.1.45-1.1.45-.45 1.1-.45-1.1-1.1-.45 1.1-.45z" fill="#9a6dd7" stroke="none"></path>
+  <path d="M12 1.4 Q12.84 9.97 16.95 7.05 Q14.03 11.16 22.6 12 Q14.03 12.84 16.95 16.95 Q12.84 14.03 12 22.6 Q11.16 14.03 7.05 16.95 Q9.97 12.84 1.4 12 Q9.97 11.16 7.05 7.05 Q11.16 9.97 12 1.4 Z" fill="#30223c" stroke="#30223c" stroke-width="1.5"/>
+  <path d="M12 1.4 Q12.84 9.97 16.95 7.05 Q14.03 11.16 22.6 12 Q14.03 12.84 16.95 16.95 Q12.84 14.03 12 22.6 Q11.16 14.03 7.05 16.95 Q9.97 12.84 1.4 12 Q9.97 11.16 7.05 7.05 Q11.16 9.97 12 1.4 Z" fill="#9a6dd7"/>
+  <path d="M12 7 Q12.34 11.17 14.12 9.88 Q12.83 11.66 17 12 Q12.83 12.34 14.12 14.12 Q12.34 12.83 12 17 Q11.66 12.83 9.88 14.12 Q11.17 12.34 7 12 Q11.17 11.66 9.88 9.88 Q11.66 11.17 12 7 Z" fill="#d5c2ee"/>
 </svg>

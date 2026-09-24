@@ -1,9 +1,41 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="#7fc7ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" stroke-linecap="round" stroke-linejoin="round">
   <title>Cold (Element)</title>
-  <path d="M12 2.5v19"></path>
-  <path d="M3.7 7.25 20.3 16.75"></path>
-  <path d="M20.3 7.25 3.7 16.75"></path>
-  <path d="M12 5.6 9.9 4.2M12 5.6l2.1-1.4M12 18.4l-2.1 1.4M12 18.4l2.1 1.4"></path>
-  <path d="M6.7 8.85 6.2 6.4M6.7 8.85 4.2 9.05M17.3 15.15l.5 2.45M17.3 15.15l2.5-.2"></path>
-  <path d="M17.3 8.85l.5-2.45M17.3 8.85l2.5.2M6.7 15.15l-.5 2.45M6.7 15.15l-2.5-.2"></path>
+  <path d="M13.8 8.88 L15.6 12 L13.8 15.12 L10.2 15.12 L8.4 12 L10.2 8.88 Z M11.05 10.35 L10.1 12 L11.05 13.65 L12.95 13.65 L13.9 12 L12.95 10.35 Z" fill="#293a47" stroke="#293a47" stroke-width="1.5"/>
+  <path d="M12 8.6 L12 2.3" fill="none" stroke="#293a47" stroke-width="3.7"/>
+  <path d="M12 5.1 L10.01 3.43" fill="none" stroke="#293a47" stroke-width="3.3"/>
+  <path d="M12 5.1 L13.99 3.43" fill="none" stroke="#293a47" stroke-width="3.3"/>
+  <path d="M14.94 10.3 L20.4 7.15" fill="none" stroke="#293a47" stroke-width="3.7"/>
+  <path d="M17.98 8.55 L18.43 5.99" fill="none" stroke="#293a47" stroke-width="3.3"/>
+  <path d="M17.98 8.55 L20.42 9.44" fill="none" stroke="#293a47" stroke-width="3.3"/>
+  <path d="M14.94 13.7 L20.4 16.85" fill="none" stroke="#293a47" stroke-width="3.7"/>
+  <path d="M17.98 15.45 L20.42 14.56" fill="none" stroke="#293a47" stroke-width="3.3"/>
+  <path d="M17.98 15.45 L18.43 18.01" fill="none" stroke="#293a47" stroke-width="3.3"/>
+  <path d="M12 15.4 L12 21.7" fill="none" stroke="#293a47" stroke-width="3.7"/>
+  <path d="M12 18.9 L13.99 20.57" fill="none" stroke="#293a47" stroke-width="3.3"/>
+  <path d="M12 18.9 L10.01 20.57" fill="none" stroke="#293a47" stroke-width="3.3"/>
+  <path d="M9.06 13.7 L3.6 16.85" fill="none" stroke="#293a47" stroke-width="3.7"/>
+  <path d="M6.02 15.45 L5.57 18.01" fill="none" stroke="#293a47" stroke-width="3.3"/>
+  <path d="M6.02 15.45 L3.58 14.56" fill="none" stroke="#293a47" stroke-width="3.3"/>
+  <path d="M9.06 10.3 L3.6 7.15" fill="none" stroke="#293a47" stroke-width="3.7"/>
+  <path d="M6.02 8.55 L3.58 9.44" fill="none" stroke="#293a47" stroke-width="3.3"/>
+  <path d="M6.02 8.55 L5.57 5.99" fill="none" stroke="#293a47" stroke-width="3.3"/>
+  <path d="M13.8 8.88 L15.6 12 L13.8 15.12 L10.2 15.12 L8.4 12 L10.2 8.88 Z M11.05 10.35 L10.1 12 L11.05 13.65 L12.95 13.65 L13.9 12 L12.95 10.35 Z" fill="#7fc7ff"/>
+  <path d="M12 8.6 L12 2.3" fill="none" stroke="#7fc7ff" stroke-width="2.2"/>
+  <path d="M12 5.1 L10.01 3.43" fill="none" stroke="#7fc7ff" stroke-width="1.8"/>
+  <path d="M12 5.1 L13.99 3.43" fill="none" stroke="#7fc7ff" stroke-width="1.8"/>
+  <path d="M14.94 10.3 L20.4 7.15" fill="none" stroke="#7fc7ff" stroke-width="2.2"/>
+  <path d="M17.98 8.55 L18.43 5.99" fill="none" stroke="#7fc7ff" stroke-width="1.8"/>
+  <path d="M17.98 8.55 L20.42 9.44" fill="none" stroke="#7fc7ff" stroke-width="1.8"/>
+  <path d="M14.94 13.7 L20.4 16.85" fill="none" stroke="#7fc7ff" stroke-width="2.2"/>
+  <path d="M17.98 15.45 L20.42 14.56" fill="none" stroke="#7fc7ff" stroke-width="1.8"/>
+  <path d="M17.98 15.45 L18.43 18.01" fill="none" stroke="#7fc7ff" stroke-width="1.8"/>
+  <path d="M12 15.4 L12 21.7" fill="none" stroke="#7fc7ff" stroke-width="2.2"/>
+  <path d="M12 18.9 L13.99 20.57" fill="none" stroke="#7fc7ff" stroke-width="1.8"/>
+  <path d="M12 18.9 L10.01 20.57" fill="none" stroke="#7fc7ff" stroke-width="1.8"/>
+  <path d="M9.06 13.7 L3.6 16.85" fill="none" stroke="#7fc7ff" stroke-width="2.2"/>
+  <path d="M6.02 15.45 L5.57 18.01" fill="none" stroke="#7fc7ff" stroke-width="1.8"/>
+  <path d="M6.02 15.45 L3.58 14.56" fill="none" stroke="#7fc7ff" stroke-width="1.8"/>
+  <path d="M9.06 10.3 L3.6 7.15" fill="none" stroke="#7fc7ff" stroke-width="2.2"/>
+  <path d="M6.02 8.55 L3.58 9.44" fill="none" stroke="#7fc7ff" stroke-width="1.8"/>
+  <path d="M6.02 8.55 L5.57 5.99" fill="none" stroke="#7fc7ff" stroke-width="1.8"/>
 </svg>

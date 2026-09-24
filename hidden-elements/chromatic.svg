@@ -1,10 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" stroke-linecap="round" stroke-linejoin="round">
   <title>Chromatic</title>
-  <g stroke="#b08a4a" stroke-width="0.8" stroke-linejoin="round">
-  <path d="M16.03 8.80 Q14.23 8.93 13.80 7.18 L13.09 4.37 Q12.66 2.62 14.11 3.68 L19.26 7.42 Q20.72 8.48 18.92 8.60 Z" fill="#e23b2e"></path>
-  <path d="M16.29 14.84 Q15.61 13.17 17.14 12.22 L19.60 10.68 Q21.12 9.73 20.56 11.44 L18.60 17.49 Q18.04 19.20 17.37 17.53 Z" fill="#2f72e0"></path>
-  <path d="M10.62 16.96 Q12.00 15.80 13.38 16.96 L15.60 18.82 Q16.98 19.97 15.18 19.97 L8.82 19.97 Q7.02 19.97 8.40 18.82 Z" fill="#36ad5a"></path>
-  <path d="M6.86 12.22 Q8.39 13.17 7.71 14.84 L6.63 17.53 Q5.96 19.20 5.40 17.49 L3.44 11.44 Q2.88 9.73 4.40 10.68 Z" fill="#f2efe8"></path>
-  <path d="M10.20 7.18 Q9.77 8.93 7.97 8.80 L5.08 8.60 Q3.28 8.48 4.74 7.42 L9.89 3.68 Q11.34 2.62 10.91 4.37 Z" fill="#15110e"></path>
-  </g>
+  <defs><linearGradient id="g1" gradientUnits="userSpaceOnUse" x1="12" y1="1.2" x2="12" y2="12"><stop offset="0" stop-color="#ec8077"/><stop offset="0.55" stop-color="#e23b2e"/><stop offset="1" stop-color="#a32a21"/></linearGradient><linearGradient id="g2" gradientUnits="userSpaceOnUse" x1="22.27" y1="8.66" x2="12" y2="12"><stop offset="0" stop-color="#78a3eb"/><stop offset="0.55" stop-color="#2f72e0"/><stop offset="1" stop-color="#2252a1"/></linearGradient><linearGradient id="g3" gradientUnits="userSpaceOnUse" x1="18.35" y1="20.74" x2="12" y2="12"><stop offset="0" stop-color="#7cca94"/><stop offset="0.55" stop-color="#36ad5a"/><stop offset="1" stop-color="#277d41"/></linearGradient><linearGradient id="g4" gradientUnits="userSpaceOnUse" x1="5.65" y1="20.74" x2="12" y2="12"><stop offset="0" stop-color="#f7f5f0"/><stop offset="0.55" stop-color="#f2efe8"/><stop offset="1" stop-color="#aeaca7"/></linearGradient><linearGradient id="g5" gradientUnits="userSpaceOnUse" x1="1.73" y1="8.66" x2="12" y2="12"><stop offset="0" stop-color="#4a4038"/><stop offset="0.55" stop-color="#15110e"/><stop offset="1" stop-color="#0f0c0a"/></linearGradient><radialGradient id="g6" gradientUnits="userSpaceOnUse" cx="11.4" cy="11.4" r="2.6"><stop offset="0" stop-color="#fff1c4"/><stop offset="0.6" stop-color="#d4a94f"/><stop offset="1" stop-color="#8a6326"/></radialGradient></defs>
+  <path d="M12 1.2 L14.59 8.44 L22.27 8.66 L16.18 13.36 L18.35 20.74 L12 16.4 L5.65 20.74 L7.82 13.36 L1.73 8.66 L9.41 8.44 Z" fill="#3a2a12" stroke="#3a2a12" stroke-width="1.5"/>
+  <path d="M12 1.2 L14.59 8.44 L22.27 8.66 L16.18 13.36 L18.35 20.74 L12 16.4 L5.65 20.74 L7.82 13.36 L1.73 8.66 L9.41 8.44 Z" fill="#b08a4a"/>
+  <path d="M12 1.2 L14.59 8.44 L12 11.99 L9.41 8.44 Z" fill="url(#g1)"/>
+  <path d="M22.27 8.66 L16.18 13.36 L12 11.99 L14.59 8.44 Z" fill="url(#g2)"/>
+  <path d="M18.35 20.74 L12 16.4 L12 11.99 L16.18 13.36 Z" fill="url(#g3)"/>
+  <path d="M5.65 20.74 L7.82 13.36 L12 11.99 L12 16.4 Z" fill="url(#g4)"/>
+  <path d="M1.73 8.66 L9.41 8.44 L12 11.99 L7.82 13.36 Z" fill="url(#g5)"/>
+  <path d="M13.23 10.3 L14 12.65 L12 14.1 L10 12.65 L10.77 10.3 Z" fill="url(#g6)"/>
+  <path d="M12 12 L14.59 8.44 M12 12 L16.18 13.36 M12 12 L12 16.4 M12 12 L7.82 13.36 M12 12 L9.41 8.44" fill="none" stroke="#b08a4a" stroke-width="0.7"/>
 </svg>
