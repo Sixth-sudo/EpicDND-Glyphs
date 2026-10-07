@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" stroke-linecap="round" stroke-linejoin="round">
+  <title>Disease</title>
+  <circle cx="12" cy="12" r="11.95" fill="#050302"/>
+  <circle cx="12" cy="12" r="10.7" fill="#120c09" stroke="#b8c24a" stroke-width="1.5"/>
+  <g transform="translate(12 12) scale(0.66) translate(-12 -12)">
+    <path d="M12 6.2 L12 3.4 M16.1 7.9 L18.08 5.92 M17.8 12 L20.6 12 M16.1 16.1 L18.08 18.08 M12 17.8 L12 20.6 M7.9 16.1 L5.92 18.08 M6.2 12 L3.4 12 M7.9 7.9 L5.92 5.92" fill="none" stroke="#120c09" stroke-width="3.7"/>
+    <circle cx="12" cy="2.8" r="1.6" fill="#120c09" stroke="#120c09" stroke-width="1.5"/>
+    <circle cx="18.51" cy="5.49" r="1.6" fill="#120c09" stroke="#120c09" stroke-width="1.5"/>
+    <circle cx="21.2" cy="12" r="1.6" fill="#120c09" stroke="#120c09" stroke-width="1.5"/>
+    <circle cx="18.51" cy="18.51" r="1.6" fill="#120c09" stroke="#120c09" stroke-width="1.5"/>
+    <circle cx="12" cy="21.2" r="1.6" fill="#120c09" stroke="#120c09" stroke-width="1.5"/>
+    <circle cx="5.49" cy="18.51" r="1.6" fill="#120c09" stroke="#120c09" stroke-width="1.5"/>
+    <circle cx="2.8" cy="12" r="1.6" fill="#120c09" stroke="#120c09" stroke-width="1.5"/>
+    <circle cx="5.49" cy="5.49" r="1.6" fill="#120c09" stroke="#120c09" stroke-width="1.5"/>
+    <circle cx="12" cy="12" r="6.2" fill="#120c09" stroke="#120c09" stroke-width="1.5"/>
+    <path d="M12 6.2 L12 3.4 M16.1 7.9 L18.08 5.92 M17.8 12 L20.6 12 M16.1 16.1 L18.08 18.08 M12 17.8 L12 20.6 M7.9 16.1 L5.92 18.08 M6.2 12 L3.4 12 M7.9 7.9 L5.92 5.92" fill="none" stroke="#b8c24a" stroke-width="2.2"/>
+    <circle cx="12" cy="2.8" r="1.6" fill="#b8c24a"/>
+    <circle cx="18.51" cy="5.49" r="1.6" fill="#b8c24a"/>
+    <circle cx="21.2" cy="12" r="1.6" fill="#b8c24a"/>
+    <circle cx="18.51" cy="18.51" r="1.6" fill="#b8c24a"/>
+    <circle cx="12" cy="21.2" r="1.6" fill="#b8c24a"/>
+    <circle cx="5.49" cy="18.51" r="1.6" fill="#b8c24a"/>
+    <circle cx="2.8" cy="12" r="1.6" fill="#b8c24a"/>
+    <circle cx="5.49" cy="5.49" r="1.6" fill="#b8c24a"/>
+    <circle cx="12" cy="12" r="6.2" fill="#b8c24a"/>
+    <path d="M8.8 10.6 a1.4 1.4 0 1 0 2.8 0 a1.4 1.4 0 1 0 -2.8 0 Z" fill="#120c09"/>
+    <path d="M13.1 13.4 a1.1 1.1 0 1 0 2.2 0 a1.1 1.1 0 1 0 -2.2 0 Z" fill="#120c09"/>
+    <path d="M10.1 14.7 a0.8 0.8 0 1 0 1.6 0 a0.8 0.8 0 1 0 -1.6 0 Z" fill="#120c09"/>
+  </g>
+</svg>

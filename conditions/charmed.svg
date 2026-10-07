@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" stroke-linecap="round" stroke-linejoin="round">
+  <title>Charmed</title>
+  <circle cx="12" cy="12" r="11.95" fill="#050302"/>
+  <circle cx="12" cy="12" r="10.7" fill="#120c09" stroke="#ff78be" stroke-width="1.5"/>
+  <g transform="translate(12 12) scale(0.66) translate(-12 -12)">
+    <path d="M12 22.29 C5.15 17.49 1.5 13.61 1.5 8.82 C1.5 5.51 4.01 3.11 6.98 3.11 C9.03 3.11 10.86 4.25 12 6.08 C13.14 4.25 14.97 3.11 17.02 3.11 C19.99 3.11 22.5 5.51 22.5 8.82 C22.5 13.61 18.85 17.49 12 22.29 Z" fill="#120c09" stroke="#120c09" stroke-width="1.5"/>
+    <path d="M12 22.29 C5.15 17.49 1.5 13.61 1.5 8.82 C1.5 5.51 4.01 3.11 6.98 3.11 C9.03 3.11 10.86 4.25 12 6.08 C13.14 4.25 14.97 3.11 17.02 3.11 C19.99 3.11 22.5 5.51 22.5 8.82 C22.5 13.61 18.85 17.49 12 22.29 Z" fill="#ff78be"/>
+    <path d="M6.4 9.3 Q6.9 7.3 8.8 7" fill="none" stroke="#ffc6e4" stroke-width="1.4"/>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" stroke-linecap="round" stroke-linejoin="round">
+  <title>Bleeding</title>
+  <circle cx="12" cy="12" r="11.95" fill="#050302"/>
+  <circle cx="12" cy="12" r="10.7" fill="#120c09" stroke="#d62828" stroke-width="1.5"/>
+  <g transform="translate(12 12) scale(0.66) translate(-12 -12)">
+    <path d="M12 1.2 C13.5 3.92 16.84 5.85 16.24 7.25 A5 5 0 1 1 7.76 7.25 C7.16 5.85 10.5 3.92 12 1.2 Z" fill="#120c09" stroke="#120c09" stroke-width="1.5"/>
+    <path d="M12 1.2 C13.5 3.92 16.84 5.85 16.24 7.25 A5 5 0 1 1 7.76 7.25 C7.16 5.85 10.5 3.92 12 1.2 Z" fill="#d62828"/>
+    <path d="M9.3 10.6 Q9.4 8.7 10.6 7.6" fill="none" stroke="#eea5a5" stroke-width="1.2"/>
+    <path d="M6.4 12.8 C7.27 14.63 9.21 16.05 8.86 16.86 A2.9 2.9 0 1 1 3.94 16.86 C3.59 16.05 5.53 14.63 6.4 12.8 Z" fill="#120c09" stroke="#120c09" stroke-width="1.5"/>
+    <path d="M17.6 14 C18.35 15.61 20.02 16.88 19.72 17.58 A2.5 2.5 0 1 1 15.48 17.58 C15.18 16.88 16.85 15.61 17.6 14 Z" fill="#120c09" stroke="#120c09" stroke-width="1.5"/>
+    <path d="M6.4 12.8 C7.27 14.63 9.21 16.05 8.86 16.86 A2.9 2.9 0 1 1 3.94 16.86 C3.59 16.05 5.53 14.63 6.4 12.8 Z" fill="#d62828"/>
+    <path d="M17.6 14 C18.35 15.61 20.02 16.88 19.72 17.58 A2.5 2.5 0 1 1 15.48 17.58 C15.18 16.88 16.85 15.61 17.6 14 Z" fill="#d62828"/>
+  </g>
+</svg>

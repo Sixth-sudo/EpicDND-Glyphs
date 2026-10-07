@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" stroke-linecap="round" stroke-linejoin="round">
+  <title>Enlarged</title>
+  <circle cx="12" cy="12" r="11.95" fill="#050302"/>
+  <circle cx="12" cy="12" r="10.7" fill="#120c09" stroke="#ffbe5a" stroke-width="1.5"/>
+  <g transform="translate(12 12) scale(0.66) translate(-12 -12)">
+    <path d="M9.8 9.8 L5.55 5.55" fill="none" stroke="#120c09" stroke-width="3.9"/>
+    <path d="M3 3 L7.95 3.14 L3.14 7.95 Z" fill="#120c09" stroke="#120c09" stroke-width="1.5"/>
+    <path d="M14.2 9.8 L18.45 5.55" fill="none" stroke="#120c09" stroke-width="3.9"/>
+    <path d="M21 3 L20.86 7.95 L16.05 3.14 Z" fill="#120c09" stroke="#120c09" stroke-width="1.5"/>
+    <path d="M14.2 14.2 L18.45 18.45" fill="none" stroke="#120c09" stroke-width="3.9"/>
+    <path d="M21 21 L16.05 20.86 L20.86 16.05 Z" fill="#120c09" stroke="#120c09" stroke-width="1.5"/>
+    <path d="M9.8 14.2 L5.55 18.45" fill="none" stroke="#120c09" stroke-width="3.9"/>
+    <path d="M3 21 L3.14 16.05 L7.95 20.86 Z" fill="#120c09" stroke="#120c09" stroke-width="1.5"/>
+    <path d="M9.8 9.8 L5.55 5.55" fill="none" stroke="#ffbe5a" stroke-width="2.4"/>
+    <path d="M3 3 L7.95 3.14 L3.14 7.95 Z" fill="#ffbe5a"/>
+    <path d="M14.2 9.8 L18.45 5.55" fill="none" stroke="#ffbe5a" stroke-width="2.4"/>
+    <path d="M21 3 L20.86 7.95 L16.05 3.14 Z" fill="#ffbe5a"/>
+    <path d="M14.2 14.2 L18.45 18.45" fill="none" stroke="#ffbe5a" stroke-width="2.4"/>
+    <path d="M21 21 L16.05 20.86 L20.86 16.05 Z" fill="#ffbe5a"/>
+    <path d="M9.8 14.2 L5.55 18.45" fill="none" stroke="#ffbe5a" stroke-width="2.4"/>
+    <path d="M3 21 L3.14 16.05 L7.95 20.86 Z" fill="#ffbe5a"/>
+  </g>
+</svg>

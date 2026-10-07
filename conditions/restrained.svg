@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" stroke-linecap="round" stroke-linejoin="round">
+  <title>Restrained</title>
+  <circle cx="12" cy="12" r="11.95" fill="#050302"/>
+  <circle cx="12" cy="12" r="10.7" fill="#120c09" stroke="#80a8d0" stroke-width="1.5"/>
+  <g transform="translate(12 12) scale(0.66) translate(-12 -12)">
+    <path d="M2.72 13.52 L10.48 21.28 M2.72 10.48 L10.48 2.72 M3.23 8.63 L15.37 20.77 M3.23 15.37 L15.37 3.23 M5.35 5.35 L18.65 18.65 M5.35 18.65 L18.65 5.35 M8.63 3.23 L20.77 15.37 M8.63 20.77 L20.77 8.63 M13.52 2.72 L21.28 10.48 M13.52 21.28 L21.28 13.52" fill="none" stroke="#120c09" stroke-width="3.7"/>
+    <path d="M2.6 12 a9.4 9.4 0 1 0 18.8 0 a9.4 9.4 0 1 0 -18.8 0 Z" fill="none" stroke="#120c09" stroke-width="3.7"/>
+    <path d="M2.72 13.52 L10.48 21.28 M2.72 10.48 L10.48 2.72 M3.23 8.63 L15.37 20.77 M3.23 15.37 L15.37 3.23 M5.35 5.35 L18.65 18.65 M5.35 18.65 L18.65 5.35 M8.63 3.23 L20.77 15.37 M8.63 20.77 L20.77 8.63 M13.52 2.72 L21.28 10.48 M13.52 21.28 L21.28 13.52" fill="none" stroke="#80a8d0" stroke-width="2.2"/>
+    <path d="M2.6 12 a9.4 9.4 0 1 0 18.8 0 a9.4 9.4 0 1 0 -18.8 0 Z" fill="none" stroke="#80a8d0" stroke-width="2.2"/>
+  </g>
+</svg>

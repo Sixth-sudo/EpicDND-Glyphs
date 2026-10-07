@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" stroke-linecap="round" stroke-linejoin="round">
+  <title>Exhaustion</title>
+  <circle cx="12" cy="12" r="11.95" fill="#050302"/>
+  <circle cx="12" cy="12" r="10.7" fill="#120c09" stroke="#d48468" stroke-width="1.5"/>
+  <g transform="translate(12 12) scale(0.66) translate(-12 -12)">
+    <path d="M4.4 10.2 L10.2 8.8 M13.8 8.8 L19.6 10.2" fill="none" stroke="#120c09" stroke-width="3.9"/>
+    <path d="M5.4 11 H9.6 A2.1 2.1 0 0 1 5.4 11 Z" fill="#120c09" stroke="#120c09" stroke-width="1.5"/>
+    <path d="M14.4 11 H18.6 A2.1 2.1 0 0 1 14.4 11 Z" fill="#120c09" stroke="#120c09" stroke-width="1.5"/>
+    <path d="M7.6 18 Q10 16.4 12 17.6 Q14 18.8 16.4 17.2" fill="none" stroke="#120c09" stroke-width="3.7"/>
+    <path d="M4.4 10.2 L10.2 8.8 M13.8 8.8 L19.6 10.2" fill="none" stroke="#d48468" stroke-width="2.4"/>
+    <path d="M5.4 11 H9.6 A2.1 2.1 0 0 1 5.4 11 Z" fill="#d48468"/>
+    <path d="M14.4 11 H18.6 A2.1 2.1 0 0 1 14.4 11 Z" fill="#d48468"/>
+    <path d="M7.6 18 Q10 16.4 12 17.6 Q14 18.8 16.4 17.2" fill="none" stroke="#d48468" stroke-width="2.2"/>
+    <path d="M20.4 0.6 C20.97 2.22 22.24 3.66 22.01 4.19 A1.9 1.9 0 1 1 18.79 4.19 C18.56 3.66 19.83 2.22 20.4 0.6 Z" fill="#120c09" stroke="#120c09" stroke-width="1.5"/>
+    <path d="M20.4 0.6 C20.97 2.22 22.24 3.66 22.01 4.19 A1.9 1.9 0 1 1 18.79 4.19 C18.56 3.66 19.83 2.22 20.4 0.6 Z" fill="#d48468"/>
+  </g>
+</svg>

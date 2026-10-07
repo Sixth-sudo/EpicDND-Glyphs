@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" stroke-linecap="round" stroke-linejoin="round">
+  <title>Turned</title>
+  <circle cx="12" cy="12" r="11.95" fill="#050302"/>
+  <circle cx="12" cy="12" r="10.7" fill="#120c09" stroke="#fff6c8" stroke-width="1.5"/>
+  <g transform="translate(12 12) scale(0.66) translate(-12 -12)">
+    <circle cx="12" cy="12" r="3.9" fill="#120c09" stroke="#120c09" stroke-width="1.5"/>
+    <path d="M12 5.6 L12 2 M16.53 7.47 L19.07 4.93 M18.4 12 L22 12 M16.53 16.53 L19.07 19.07 M12 18.4 L12 22 M7.47 16.53 L4.93 19.07 M5.6 12 L2 12 M7.47 7.47 L4.93 4.93" fill="none" stroke="#120c09" stroke-width="4"/>
+    <circle cx="12" cy="12" r="3.9" fill="#fff6c8"/>
+    <path d="M12 5.6 L12 2 M16.53 7.47 L19.07 4.93 M18.4 12 L22 12 M16.53 16.53 L19.07 19.07 M12 18.4 L12 22 M7.47 16.53 L4.93 19.07 M5.6 12 L2 12 M7.47 7.47 L4.93 4.93" fill="none" stroke="#fff6c8" stroke-width="2.5"/>
+  </g>
+</svg>

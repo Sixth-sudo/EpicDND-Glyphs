@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" stroke-linecap="round" stroke-linejoin="round">
+  <title>Burning</title>
+  <circle cx="12" cy="12" r="11.95" fill="#050302"/>
+  <circle cx="12" cy="12" r="10.7" fill="#120c09" stroke="#ff8a28" stroke-width="1.5"/>
+  <g transform="translate(12 12) scale(0.66) translate(-12 -12)">
+    <path d="M12 1.44 L13.92 9.12 L15.84 6.24 L18 11.52 L17.52 15.84 L14.88 19.68 L12 21.12 L9.12 19.68 L6.48 15.84 L6 11.52 L8.16 6.24 L10.08 9.12 Z" fill="#120c09" stroke="#120c09" stroke-width="1.5"/>
+    <path d="M12 1.44 L13.92 9.12 L15.84 6.24 L18 11.52 L17.52 15.84 L14.88 19.68 L12 21.12 L9.12 19.68 L6.48 15.84 L6 11.52 L8.16 6.24 L10.08 9.12 Z" fill="#ff8a28"/>
+    <path d="M12 9.6 L13.92 14.4 L13.2 17.76 L12 19.2 L10.8 17.76 L10.08 14.4 Z" fill="#ffcea5"/>
+  </g>
+</svg>

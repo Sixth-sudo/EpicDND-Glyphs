@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" stroke-linecap="round" stroke-linejoin="round">
+  <title>Frightened</title>
+  <circle cx="12" cy="12" r="11.95" fill="#050302"/>
+  <circle cx="12" cy="12" r="10.7" fill="#120c09" stroke="#b07aff" stroke-width="1.5"/>
+  <g transform="translate(12 12) scale(0.66) translate(-12 -12)">
+    <path d="M12 3.2 L12 13.6" fill="none" stroke="#120c09" stroke-width="6.3"/>
+    <circle cx="12" cy="19.4" r="2.9" fill="#120c09" stroke="#120c09" stroke-width="1.5"/>
+    <path d="M12 3.2 L12 13.6" fill="none" stroke="#b07aff" stroke-width="4.8"/>
+    <circle cx="12" cy="19.4" r="2.9" fill="#b07aff"/>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" stroke-linecap="round" stroke-linejoin="round">
+  <title>Petrified</title>
+  <circle cx="12" cy="12" r="11.95" fill="#050302"/>
+  <circle cx="12" cy="12" r="10.7" fill="#120c09" stroke="#9c968c" stroke-width="1.5"/>
+  <g transform="translate(12 12) scale(0.66) translate(-12 -12)">
+    <path d="M12 2.88 L17.76 5.76 L20.16 12.48 L17.28 19.2 L9.6 20.64 L4.32 16.8 L3.36 9.12 L7.68 3.84 Z" fill="#120c09" stroke="#120c09" stroke-width="1.5"/>
+    <path d="M12 2.88 L17.76 5.76 L20.16 12.48 L17.28 19.2 L9.6 20.64 L4.32 16.8 L3.36 9.12 L7.68 3.84 Z" fill="#9c968c"/>
+    <path d="M11.2 3.2 L13.1 8.9 L9.6 12.2 L12.8 15.9 L10.6 20.6" fill="none" stroke="#120c09" stroke-width="1.9"/>
+    <path d="M5.6 9.8 L7.9 5.6" fill="none" stroke="#d5d3cf" stroke-width="1.2"/>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" stroke-linecap="round" stroke-linejoin="round">
+  <title>Concentration</title>
+  <circle cx="12" cy="12" r="11.95" fill="#050302"/>
+  <circle cx="12" cy="12" r="10.7" fill="#120c09" stroke="#78dceb" stroke-width="1.5"/>
+  <g transform="translate(12 12) scale(0.66) translate(-12 -12)">
+    <path d="M6.4 4.4 L17.6 4.4 L13.3 12 L17.6 19.6 L6.4 19.6 L10.7 12 Z" fill="#120c09" stroke="#120c09" stroke-width="1.5"/>
+    <path d="M4.8 4.1 H19.2 M4.8 19.9 H19.2" fill="none" stroke="#120c09" stroke-width="4.1"/>
+    <path d="M6.4 4.4 L17.6 4.4 L13.3 12 L17.6 19.6 L6.4 19.6 L10.7 12 Z" fill="#78dceb"/>
+    <path d="M4.8 4.1 H19.2 M4.8 19.9 H19.2" fill="none" stroke="#78dceb" stroke-width="2.6"/>
+    <path d="M8.9 6.4 L15.1 6.4 L12 10.5 Z" fill="#120c09"/>
+    <path d="M9.2 18.4 L14.8 18.4 L12 15.1 Z" fill="#c6f0f7"/>
+  </g>
+</svg>

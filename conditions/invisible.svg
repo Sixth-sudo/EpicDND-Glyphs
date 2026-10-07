@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" stroke-linecap="round" stroke-linejoin="round">
+  <title>Invisible</title>
+  <circle cx="12" cy="12" r="11.95" fill="#050302"/>
+  <circle cx="12" cy="12" r="10.7" fill="#120c09" stroke="#8ce2f0" stroke-width="1.5"/>
+  <g transform="translate(12 12) scale(0.66) translate(-12 -12)">
+    <path d="M12 3.6 A8.4 8.4 0 0 1 15.68 4.45" fill="none" stroke="#120c09" stroke-width="4.3"/>
+    <path d="M17.94 6.06 A8.4 8.4 0 0 1 19.94 9.27" fill="none" stroke="#120c09" stroke-width="4.3"/>
+    <path d="M20.4 12 A8.4 8.4 0 0 1 19.55 15.68" fill="none" stroke="#120c09" stroke-width="4.3"/>
+    <path d="M17.94 17.94 A8.4 8.4 0 0 1 14.73 19.94" fill="none" stroke="#120c09" stroke-width="4.3"/>
+    <path d="M12 20.4 A8.4 8.4 0 0 1 8.32 19.55" fill="none" stroke="#120c09" stroke-width="4.3"/>
+    <path d="M6.06 17.94 A8.4 8.4 0 0 1 4.06 14.73" fill="none" stroke="#120c09" stroke-width="4.3"/>
+    <path d="M3.6 12 A8.4 8.4 0 0 1 4.45 8.32" fill="none" stroke="#120c09" stroke-width="4.3"/>
+    <path d="M6.06 6.06 A8.4 8.4 0 0 1 9.27 4.06" fill="none" stroke="#120c09" stroke-width="4.3"/>
+    <path d="M12 3.6 A8.4 8.4 0 0 1 15.68 4.45" fill="none" stroke="#8ce2f0" stroke-width="2.8"/>
+    <path d="M17.94 6.06 A8.4 8.4 0 0 1 19.94 9.27" fill="none" stroke="#8ce2f0" stroke-width="2.8"/>
+    <path d="M20.4 12 A8.4 8.4 0 0 1 19.55 15.68" fill="none" stroke="#8ce2f0" stroke-width="2.8"/>
+    <path d="M17.94 17.94 A8.4 8.4 0 0 1 14.73 19.94" fill="none" stroke="#8ce2f0" stroke-width="2.8"/>
+    <path d="M12 20.4 A8.4 8.4 0 0 1 8.32 19.55" fill="none" stroke="#8ce2f0" stroke-width="2.8"/>
+    <path d="M6.06 17.94 A8.4 8.4 0 0 1 4.06 14.73" fill="none" stroke="#8ce2f0" stroke-width="2.8"/>
+    <path d="M3.6 12 A8.4 8.4 0 0 1 4.45 8.32" fill="none" stroke="#8ce2f0" stroke-width="2.8"/>
+    <path d="M6.06 6.06 A8.4 8.4 0 0 1 9.27 4.06" fill="none" stroke="#8ce2f0" stroke-width="2.8"/>
+  </g>
+</svg>

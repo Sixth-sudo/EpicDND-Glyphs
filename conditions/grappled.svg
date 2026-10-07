@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" stroke-linecap="round" stroke-linejoin="round">
+  <title>Grappled</title>
+  <circle cx="12" cy="12" r="11.95" fill="#050302"/>
+  <circle cx="12" cy="12" r="10.7" fill="#120c09" stroke="#ce9658" stroke-width="1.5"/>
+  <g transform="translate(12 12) scale(0.66) translate(-12 -12)">
+    <path d="M2.7 12 a5.6 5.6 0 1 0 11.2 0 a5.6 5.6 0 1 0 -11.2 0 Z" fill="none" stroke="#120c09" stroke-width="4.2"/>
+    <path d="M2.7 12 a5.6 5.6 0 1 0 11.2 0 a5.6 5.6 0 1 0 -11.2 0 Z" fill="none" stroke="#ce9658" stroke-width="2.7"/>
+    <path d="M10.1 12 a5.6 5.6 0 1 0 11.2 0 a5.6 5.6 0 1 0 -11.2 0 Z" fill="none" stroke="#120c09" stroke-width="4.2"/>
+    <path d="M10.1 12 a5.6 5.6 0 1 0 11.2 0 a5.6 5.6 0 1 0 -11.2 0 Z" fill="none" stroke="#ce9658" stroke-width="2.7"/>
+    <path d="M10.67 6.92 A5.6 5.6 0 0 1 13.71 10.55" fill="none" stroke="#120c09" stroke-width="4.2"/>
+    <path d="M10.67 6.92 A5.6 5.6 0 0 1 13.71 10.55" fill="none" stroke="#ce9658" stroke-width="2.7"/>
+  </g>
+</svg>
